@@ -2,9 +2,9 @@
 
 An interactive pizza ordering app built with React, Redux Toolkit, React Router, and Tailwind CSS. This is a project developed as part of the "Ultimate React Course".
 
-## 🌐 Live Demo
+## 🔗 Live Demo
 
-Coming soon...
+👉 [Check it out on Netlify](https://fast-react-pizza-web-app.netlify.app/)
 
 ## ✨ Features
 
@@ -46,4 +46,5 @@ src/
 ---
 
 Created by **František Stolar** as part of the _Ultimate React Course_ by Jonas Schmedtmann.
+
 # fast-react-pizza
